@@ -12,8 +12,8 @@ This project aims to classify X-ray images of COVID-19 patients into two categor
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/COVID19-Xray-Classifier.git
-    cd COVID19-Xray-Classifier
+    git clone https://github.com/yourusername/Covid19-With-Flask-And-STREAMLIT.git
+    cd Covid19-With-Flask-And-STREAMLIT
     ```
 
 2. Install dependencies:
@@ -32,15 +32,14 @@ This project aims to classify X-ray images of COVID-19 patients into two categor
 - To launch the Streamlit interface:
 
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run api.py
     ```
 
 ### Usage
 - Visit the Streamlit app (`localhost:8501`) to interactively test the classifier.
-- Use the Flask API (`localhost:5000/predict`) to make predictions programmatically.
+- Use the Flask API (`localhost:5000`) to make predictions programmatically.
 
 ## Model Training
 - The CNN model is trained on a dataset of COVID-19 X-ray images.
-- Training details and model architecture can be found in the `model_training.ipynb` notebook.
+- Training details and model architecture can be found in the (https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn)https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn notebook.
 
-## Folder Structure
