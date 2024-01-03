@@ -41,5 +41,5 @@ This project aims to classify X-ray images of COVID-19 patients into two categor
 
 ## Model Training
 - The CNN model is trained on a dataset of COVID-19 X-ray images.
-- Training details and model architecture can be found in the (https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn)https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn notebook.
+- Training details and model architecture can be found in the [(https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn)https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn notebook.](https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn)https://www.kaggle.com/code/hossamrizk/your-first-step-in-cnn
 
