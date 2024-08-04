@@ -12,7 +12,7 @@ This project aims to classify X-ray images of COVID-19 patients into two categor
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Covid19-With-Flask-And-STREAMLIT.git
+    git clone https://github.com/hossamrizk/Covid19-With-Flask-And-STREAMLIT.git
     cd Covid19-With-Flask-And-STREAMLIT
     ```
 
